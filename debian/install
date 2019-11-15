@@ -1,0 +1,9 @@
+themes/anthra_1920_OSt*	var/lib/vdr/themes/
+anthra_1920_OSt.colors	usr/share/vdr-skins/anthra_1920_OSt/
+anthra_1920_OSt.skin	usr/share/vdr-skins/anthra_1920_OSt/
+Make.config		usr/share/vdr-skins/anthra_1920_OSt/
+Makefile		usr/share/vdr-skins/anthra_1920_OSt/
+menulogos		usr/share/vdr-skins/anthra_1920_OSt/
+images			usr/share/vdr-skins/anthra_1920_OSt/
+xml			usr/share/vdr-skins/anthra_1920_OSt/
+
