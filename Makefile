@@ -55,7 +55,7 @@ i18n: $(I18Npo:%.po=$(LOCALEDIR)/%/LC_MESSAGES/vdr-text2skin-$(SKIN).mo)
 
 $(SKIN).skin:
 
-	@for FILES in $(wildcard xml/*.xml); do cat "$${FILES}" >> $(SKIN).skin; done
+	@for FILES in $(sort $(wildcard xml/*.xml)); do cat "$${FILES}" >> $(SKIN).skin; done
 
 	
 	@echo
